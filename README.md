@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/viniteixeira/98efae4c-cc2a-4cf9-999b-a45e3c674614/5ea87fe4-2b5d-410f-9cb9-48725917f009/_apis/work/boardbadge/f474510d-17bf-4a62-b5e0-0321b2a414e8)](https://dev.azure.com/viniteixeira/98efae4c-cc2a-4cf9-999b-a45e3c674614/_boards/board/t/5ea87fe4-2b5d-410f-9cb9-48725917f009/Microsoft.RequirementCategory)
 
 # Contributing
 
